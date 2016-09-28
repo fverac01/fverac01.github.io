@@ -1,6 +1,6 @@
 body {
-	font-size: 18px;
-	background-color: beige;
+	font-size: 16px;
+	background-color: #EAE9EB;
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	text-align: left;
 	padding-left: 20%;
@@ -8,13 +8,23 @@ body {
 }
 
 h1 {
-	font-size: 30px;
+	font-size: 40px;
 
 
 	text-align: center;
 }
 
 li {
+	font-style: italic;
+
+}
+
+.sectionhead {
+	font-size: 28px;
+	font-weight: bold;
+}
+
+.paragraph {
 	font-size: 18px;
 
 }
